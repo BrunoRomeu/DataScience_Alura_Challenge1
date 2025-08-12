@@ -46,6 +46,10 @@ Projeto desenvolvido como parte do Challenge de Data Science Oracle + Alura, com
 | Frete Médio | R$34,69 | R$33,62 | R$33,07 | R$31,28 |
 | Market Share | 26.1% | 25.3% | 24.9% | 23.7% |
 
+<div>
+  <img src="https://github.com/BrunoRomeu/DataScience_Alura_Challenge1/blob/main/assets/Faturamento%20Anual%20por%20Loja.jpeg">
+</div>
+
 ### 📌 Insights Críticos
 
 1. **Eficiência Operacional:**
@@ -63,10 +67,12 @@ Projeto desenvolvido como parte do Challenge de Data Science Oracle + Alura, com
    - 👎 Cluster de avaliações negativas (15% ≤ 2 estrelas)
    - 🚚 Economia de frete não compensa perda marginal
 
-## 🌐 Análise temporal (faturamento por ano e por mês)
+## 🌐 Geoanálise Estratégica
 
 **Mapa de Calor de Rentabilidade:**
-![Mapa de Calor](https://i.imgur.com/heatmap-alura.png)
+<div>
+  <img src="https://github.com/BrunoRomeu/DataScience_Alura_Challenge1/blob/main/assets/mapa%20interativo.jpeg">
+</div>
 
 **Principais Achados:**
 - Loja 1 domina regiões de alto ticket
@@ -103,7 +109,7 @@ Projeto desenvolvido como parte do Challenge de Data Science Oracle + Alura, com
 
 **Reprodutibilidade:**
 ```bash
-git clone https://github.com/seurepo/alura-analysis
+git clone https://github.com/BrunoRomeu/DataScience_Alura_Challenge1
 conda env create -f environment.yml
 jupyter notebook analysis.ipynb
 ```
@@ -121,9 +127,7 @@ jupyter notebook analysis.ipynb
 ---
 
 **Autor:** Bruno Romeu  
-**Contato:** [LinkedIn](https://linkedin.com/in/seuprofile) | [GitHub](https://github.com/seurepo)  
+**Contato:** [LinkedIn](https://www.linkedin.com/in/bruno-celestino-romeu/) | [GitHub](https://github.com/BrunoRomeu)  
 **Licença:** Creative Commons BY-NC-SA 4.0  
-
-*Documento gerado em: {data}*  
 
 > "Dados são apenas números até que sejam transformados em decisões" - Adaptado de W. Edwards Deming
